@@ -1,3 +1,7 @@
+# Image Slider
+
+Advanced image slider, main focus on: accessibility features, aria-labels,aria-hidden, content skipping (hidden on the img) to a link/next part,
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.

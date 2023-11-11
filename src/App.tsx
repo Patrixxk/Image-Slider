@@ -25,7 +25,7 @@ function App() {
       }}
     >
       <ImageSlider images={IMAGES} />
-      <a href="/" style={{ fontSize: "3rem", visibility: "hidden" }}>
+      <a href="/" style={{ fontSize: "3rem" }}>
         Link
       </a>
     </div>
